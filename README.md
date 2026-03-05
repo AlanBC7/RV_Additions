@@ -11,8 +11,10 @@ TentWallFan provides parts to mount a small fan in a tent wall.
 
 WaterPump provides parts and an Ardino program to implement a water tank pump and display of water remaining.
 
+Eggs egg carton for three eggs.
+
 Misc
 ChannelWall clips to keep small parts from sliding in the upstairs side channels. (Mesa)
 HitchWasher goes in a 2 inch hitch reciever.
-TailGateWedge '23 Tacoma wedge to make the taigate seal out dust better (need two)
+TailGateWedge '23 Tacoma wedge to make the tailgate seal out dust better (need two)
 WindowKnob provides a knob for the window to be glued on inside the topper.
