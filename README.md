@@ -11,6 +11,8 @@ TentWallFan provides parts to mount a small fan in a tent wall.
 
 WaterPump provides parts and an Ardino program to implement a water tank pump and display of water remaining.
 
+TailGateLock provides a slider inside the tailgate to move the lock mechanism. 2023 Tacoma.
+
 Eggs egg carton for three eggs.
 
 Misc
